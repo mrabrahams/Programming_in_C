@@ -1,2 +1,2 @@
 # Programming_in_C
-Various Programs created in C for school.
+Learning and applying use of header files in C.
